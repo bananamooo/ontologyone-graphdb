@@ -1,0 +1,9 @@
+{
+  "id": "ontologyone",
+  "title": "OntologyOne ontologies",
+  "type": "free",
+  "params": {
+    "ruleset": "rdfsplus-optimized",
+    "storage-folder": "ontologyone-data"
+  }
+}

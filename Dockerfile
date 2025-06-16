@@ -1,4 +1,4 @@
-FROM ontotext/graphdb:latest
+FROM ontotext/graphdb:11.0.1
 
 # Copy repo config and startup script
 COPY repo-config.json /repo-config.json
